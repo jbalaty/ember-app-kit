@@ -233,7 +233,7 @@ module.exports = function(grunt) {
 
   grunt.registerTask('buildManifestFile:dist', function() {
     grunt.file.copy('app/manifest.webapp','dist/manifest.webapp');
-  })
+  });
 
   grunt.initConfig(config);
 };

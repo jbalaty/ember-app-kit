@@ -1,0 +1,16 @@
+{
+  "name": "app-kit",
+  "version": "0.0.0",
+  "description": "Webapp appkit template",
+  "launch path": "/index.html",
+  "permissions": {
+  },
+  "developer": {
+    "name":"",
+    "url":""
+  },
+  icons:{
+    "60": "/public/assets/icon_60.png",
+    "128": "/public/assets/icon_128.png"
+  }
+}
